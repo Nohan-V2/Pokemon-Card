@@ -62,9 +62,15 @@ img {
     background-color: var(--orange);
 }
 
-.element-fly {
+.elements {
+    padding-left: 0;
+    list-style: none;
+    margin-left: auto;
     width: 48px;
-    margin: 8px 0 8px 0;
+}
+
+.element-fly {
+    margin: 8px 0;
     border-radius: 300px;
     padding: 8px;
     color: var(--white);
@@ -73,8 +79,7 @@ img {
 }
 
 .element-fire {
-    width: 48px;
-    margin: 8px 0 8px 0;
+    margin: 8px 0;
     border-radius: 300px;
     padding: 8px;
     color: var(--white);
