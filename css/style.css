@@ -63,21 +63,21 @@ img {
 }
 
 .element-fly {
+    width: 48px;
     margin: 8px 0 8px 0;
     border-radius: 300px;
     padding: 8px;
     color: var(--white);
     background-color: var(--blue);
-    width: 46px;
     text-align: center;
 }
 
 .element-fire {
+    width: 48px;
     margin: 8px 0 8px 0;
     border-radius: 300px;
     padding: 8px;
     color: var(--white);
     background-color: var(--fire);
-    width: 46px;
     text-align: center;
 }
